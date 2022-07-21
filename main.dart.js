@@ -75187,16 +75187,16 @@ G(a,b){return new A.ye(new A.ob(null),"RealEstateWebUI",A.arZ(null,B.ul),null)}}
 A.a31.prototype={}
 A.a5M.prototype={}
 A.aim.prototype={
-$0(){return A.aj6("assets/brochures/brochure.pdf")},
+$0(){return A.aj6("assets/brochure.pdf")},
 $S:0}
 A.ain.prototype={
-$0(){return A.aj6("assets/brochures/brochure.pdf")},
+$0(){return A.aj6("assets/brochure.pdf")},
 $S:0}
 A.aio.prototype={
-$0(){return A.aj6("assets/brochures/brochure.pdf")},
+$0(){return A.aj6("assets/brochure.pdf")},
 $S:0}
 A.aip.prototype={
-$0(){return A.aj6("assets/brochures/brochure.pdf")},
+$0(){return A.aj6("assets/brochure.pdf")},
 $S:0}
 A.wo.prototype={
 ae(){return new A.NB(B.n)}}

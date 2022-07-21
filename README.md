@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Minimal Real Estate Landing Page UI</h1>
-<h3 align="center">Builded With Flutter</h3>
+<h3 align="center">Built With Flutter</h3>
 
 <p align="center">Completely Responsive</p>
 
